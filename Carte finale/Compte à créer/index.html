@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <title>formulaire</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/Login-Form-Clean.css">
+    <link rel="stylesheet" href="assets/css/Login-Form-Dark.css">
+    <link rel="stylesheet" href="assets/css/Registration-Form-with-Photo.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body style="color: rgb(33,37,41);">
+    <div class="register-photo">
+        <div class="form-container">
+            <div class="image-holder"></div>
+            <form method="get" action="traitement.php" id="form">
+                <h2 class="text-center"><strong>Create</strong> an account.</h2>
+				<div id="email" class="form-group"><input class="form-control" type="email" name="email" placeholder="Email"></div>
+                <small class="text-danger invisible">Vous avez déjà un compte</small>
+				<div id="mdp" class="form-group"><input class="form-control" type="password" name="password" placeholder="Password"></div>
+                <div class="form-group"><input class="form-control" type="password" name="password-repeat" placeholder="Password (repeat)"></div>
+                <small class="text-danger invisible">Les mots de passe ne correspondent pas !</small>
+				<div class="form-group">
+                    <div class="form-check"><label class="form-check-label"><input class="form-check-input" type="checkbox">I agree to the license terms.</label></div>
+                </div>
+				<div class="form-group"><button class="btn btn-primary btn-block" type="submit">Sign Up</button></div><a class="already"><h5>You already have an account ?</h5></a> <a class="already" href="../Compte existant/login.html"><h5><strong> <U>Login here.</strong></U></h5></a>
+            </form>
+        </div>
+    </div>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/monscript.js"></script>
+</body>
+
+</html>

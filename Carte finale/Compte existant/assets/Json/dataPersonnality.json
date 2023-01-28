@@ -1,0 +1,128 @@
+ [
+   {
+     "nom": "Mohamed TOBJI",
+     "email": "mohamed.tobji@lycee-jeanrostand.fr",
+	 "mdp":"e",
+	 "gender": "Male",
+     "markers": [
+       {
+         "id": "1",
+         "latLng": {"lat":48.72755183170958,"lng": 4.588320285066152},
+         "namePlace":"Ecole Jule Ferry",
+         "commentaire": "mon école primaire, pleins de merveilleux souvenirs...",
+         "photo": "https://drive.google.com/uc?export=view&id=1MnjmoMVKhOhU9B_YAZaS-3AhkbX4n4Gh"
+       },
+
+       {
+         "id": "2",
+         "latLng": {"lat":-21.048030870205075,"lng": 55.42723753807348},
+         "namePlace":"Île de la Réunion, cirque de Mafat",
+         "commentaire": "une jolie randonnée en 2014!",
+         "photo": "https://habiter-la-reunion.re/wp-content/uploads/2020/02/mafate_ile_Re%CC%81union.jpg"
+       },
+
+       {
+         "id": "3",
+         "latLng": {"lat":22.8390998756966545,"lng": 59.24538811292267},
+         "namePlace":"Oman",
+         "commentaire": "Wadi Sham, encore une belle baignade dans ce lieu magique!",
+         "photo": "https://www.musafir.com//SFImage/Images/wadi-shab.png"
+       }
+     ]
+   },
+   {
+     "nom": "tom cruise",
+     "mdp":"f",
+	 "email": "tom.cruse@hollywood.com",
+	 "gender": "Male",
+     "markers": [
+       {
+         "id": "1",
+         "latLng": {"lat":48.72755183170958,"lng": 4.588320285066152},
+         "namePlace":"Ecole Jule Ferry",
+         "commentaire": "mon école primaire, pleins de merveilleux souvenirs...",
+         "photo": "https://drive.google.com/uc?export=view&id=1MnjmoMVKhOhU9B_YAZaS-3AhkbX4n4Gh"
+       },
+
+       {
+         "id": "2",
+         "latLng": {"lat":48.974402,"lng": 2.5130466},
+         "namePlace":"Ecole Jule Ferry",
+         "commentaire": "mon école primaire, pleins de merveilleux souvenirs...",
+         "photo": "https://drive.google.com/uc?export=view&id=1MnjmoMVKhOhU9B_YAZaS-3AhkbX4n4Gh"
+       },
+
+       {
+         "id": "3",
+         "latLng": {"lat":48.709378,"lng": -3.5798301},
+         "namePlace":"Ecole Jule Ferry",
+         "commentaire": "mon école primaire, pleins de merveilleux souvenirs...",
+         "photo": "https://drive.google.com/uc?export=view&id=1MnjmoMVKhOhU9B_YAZaS-3AhkbX4n4Gh"
+       }
+     ]
+   },
+
+   {
+     "nom": "maria sharapova",
+     "email": "maria.sharapova@rolland-garros.com",
+	 "mdp":"f",
+	 "gender": "female",
+     "markers": [
+       {
+         "id": "1",
+         "latLng": {"lat":62.1840427,"lng": 65.2131834},
+         "namePlace":"Ecole Jule Ferry",
+         "commentaire": "mon école primaire, pleins de merveilleux souvenirs...",
+         "photo": "https://drive.google.com/uc?export=view&id=1MnjmoMVKhOhU9B_YAZaS-3AhkbX4n4Gh"
+       },
+
+       {
+         "id": "2",
+         "latLng": {"lat":0,"lng": 0},
+         "namePlace":"Île de la Réunion, cirque de Mafat",
+         "commentaire": "une jolie randonnée en 2014!",
+         "photo": "https://habiter-la-reunion.re/wp-content/uploads/2020/02/mafate_ile_Re%CC%81union.jpg"
+       },
+
+       {
+         "id": "3",
+         "latLng": {"lat":0,"lng":15},
+         "namePlace":"Oman",
+         "commentaire": "Wadi Sham, encore une belle baignade dans ce lieu magique!",
+         "photo": "https://www.musafir.com//SFImage/Images/wadi-shab.png"
+       }
+     ]
+   },
+   
+      {
+     "nom": "Florian DAUVERGNE",
+     "email": "flo.dauv@orange.fr",
+     "mdp":"f",
+	 "gender": "male",
+     "markers": [
+       {
+         "id": "1",
+         "latLng": {"lat":48.7104888,"lng":-3.5726106},
+         "namePlace":"Trédrez-Locquémeau",
+         "commentaire": "Mon lieu de vacances",
+         "photo": "https://lh5.googleusercontent.com/p/AF1QipNe2pYU4WN6XjItGWdxYXFfORF-rXmvNp0DpYOL=w425-h240-k-no"
+       },
+
+       {
+         "id": "2",
+         "latLng": {"lat":49.7779711,"lng": 6.5794204},
+         "namePlace":"Trèves",
+         "commentaire": "Mon voyage scolaire 2019",
+         "photo": "https://lh5.googleusercontent.com/p/AF1QipMIgPTBxxK4tMGnviTCdTvj9BjqBB98KyLjfo4h=w408-h286-k-no"
+       },
+
+       {
+         "id": "3",
+         "latLng": {"lat":48.9590349,"lng":2.5475558},
+         "namePlace":"Lycée polyvalent Jean Rostand",
+         "commentaire": "",
+         "photo": "https://lh3.googleusercontent.com/proxy/FKOW5WrsblMquYIddW-sCs7cK4PG-GEF3FEuVkPzPd7ZDPyEJiJ51EIBoSGtKVmkU3DCkbDZDS7Zv0X1dlGggiywrqcWbioy14VRpVwN8Nbyou0kBaDrLiw61cAl3SrgTkgqVUaBERGnTeFr02c-OTcu_hGvaTwMxmdoEpquHn2cue1n-L4"
+       }
+     ]
+   }
+  ]
